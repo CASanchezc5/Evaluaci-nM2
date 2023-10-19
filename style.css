@@ -1,0 +1,35 @@
+ #lista{
+    border: 5px, double, #FF0000;
+    cursor: pointer;
+}
+
+ #cons{
+    border: 2px, solid, #088A08;
+}
+
+ #cont{
+    border: 2px, solid, #088A08;
+}
+
+ #aud{
+    border: 2px, solid, #088A08;
+}
+
+ #seleccion{
+    border: 5px, solid, #0101DF;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    z-index: 1;
+
+}
+
+ #aventura #rpg #sh #accion #plataforma{
+    border: 5px, solid, #D7DF01;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    z-index: 1;
+
+}
+
