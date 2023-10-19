@@ -1,22 +1,42 @@
- #lista{
+#lista{
     border: 5px, double, #FF0000;
     cursor: pointer;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    z-index: 1
 }
 
- #cons{
+#cons{
     border: 2px, solid, #088A08;
+    cursor: pointer;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    z-index: 1
 }
 
- #cont{
+#cont{
     border: 2px, solid, #088A08;
+    cursor: pointer;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    z-index: 1
 }
 
- #aud{
+#aud{
     border: 2px, solid, #088A08;
+    cursor: pointer;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    z-index: 1
 }
 
  #seleccion{
     border: 5px, solid, #0101DF;
+    cursor: pointer;
     position: relative;
     top: 10px;
     left: 10px;
@@ -24,8 +44,9 @@
 
 }
 
- #aventura #rpg #sh #accion #plataforma{
+#aventura #rpg #sh #accion #plataforma{
     border: 5px, solid, #D7DF01;
+    cursor: pointer;
     position: relative;
     top: 10px;
     left: 10px;
